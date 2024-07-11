@@ -7,10 +7,20 @@ Este repositorio contiene varios ejemplos de juegos desarrollados en Python. Cad
 
 ## Contenido
 
-1. [Juego de Texto de Aventuras](#juego-de-texto-de-aventuras)
-2. [RPG Simple](#rpg-simple)
-3. [Juego de Matemáticas con Tkinter](#juego-de-matemáticas-con-tkinter)
-4. [Juego de Dados](#juego-de-dados)
+1. [Curso Completo de Python](#curso-completo-de-python)
+   - [Instalación](#instalación)
+   - [Sintaxis Básica](#sintaxis-básica)
+   - [Operadores](#operadores)
+   - [Estructuras de Control](#estructuras-de-control)
+   - [Funciones](#funciones)
+   - [Clases y Objetos](#clases-y-objetos)
+   - [Módulos y Paquetes](#módulos-y-paquetes)
+   - [Manejo de Excepciones](#manejo-de-excepciones)
+2. [Juegos en Python](#juegos-en-python)
+   - [Juego de Texto de Aventuras](#juego-de-texto-de-aventuras)
+   - [RPG Simple](#rpg-simple)
+   - [Juego de Matemáticas con Tkinter](#juego-de-matemáticas-con-tkinter)
+   - [Juego de Dados](#juego-de-dados)
 
 ### Juego de Texto de Aventuras
 
@@ -28,3 +38,18 @@ Este juego es un juego basado en texto donde el jugador toma decisiones para ava
 juego = JuegoDeAventuras()
 juego.jugar()
 git clone https://github.com/jhonfy3320/Juegos-con--Python.git
+
+Cada juego o ejemplo se puede ejecutar directamente desde la línea de comandos. Navega hasta el directorio correspondiente y ejecuta el archivo principal.
+
+python juego_de_texto.py
+python rpg_simple.py
+python juego_matematicas.py
+python juego_dados.py
+
+## Contribución
+Si deseas contribuir a este repositorio, por favor crea un fork del proyecto, realiza tus cambios y envía un pull request. Apreciamos todas las contribuciones y mejoras.
+
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
+
+
